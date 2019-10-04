@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RPGCrewPlugin", "RPGCrewPlugin\RPGCrewPlugin.csproj", "{3D8B5C50-D811-45C2-B6CB-FE09DA9EA0E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D8B5C50-D811-45C2-B6CB-FE09DA9EA0E4}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{3D8B5C50-D811-45C2-B6CB-FE09DA9EA0E4}.Debug|x64.Build.0 = Debug|Any CPU
+		{3D8B5C50-D811-45C2-B6CB-FE09DA9EA0E4}.Release|x64.ActiveCfg = Release|Any CPU
+		{3D8B5C50-D811-45C2-B6CB-FE09DA9EA0E4}.Release|x64.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AF4BA807-DAD1-4C09-B686-C2690CBEBAB5}
+	EndGlobalSection
+EndGlobal
